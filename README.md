@@ -18,5 +18,19 @@ Container is an immutable infrastructure for execute an application with OS, OS-
 - Can change scale of working applications.
 - We can use it on various environment.
 
+# Docker?
 
+These are basic items for docker.
+- Docker Demon
+- Docker Client Program
+- Image
+- Container
+
+## Docker Client Commands
+
+'''bash
+docker build
+docker pull
+docker run
+'''
 
